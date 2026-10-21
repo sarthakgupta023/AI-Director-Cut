@@ -1,0 +1,20 @@
+# Ignore Python environment
+backend/venv/
+__pycache__/
+*.pyc
+
+# Ignore node_modules
+frontend/node_modules/
+frontend/dist/
+
+# Ignore video files and temp files
+*.mp4
+*.webm
+*.wav
+*.tmp
+temp_*
+final_cut_*
+
+# Ignore IDE files
+.vscode/
+.DS_Store
